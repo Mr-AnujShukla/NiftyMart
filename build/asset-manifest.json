@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.62143579.css",
+    "main.js": "/static/js/main.fd5ba510.js",
+    "static/media/hero.jpg": "/static/media/hero.f3446334bfc7130c34b5.jpg",
+    "static/media/NiftyMart.png": "/static/media/NiftyMart.47d8dea0579f9c7536a5.png",
+    "index.html": "/index.html",
+    "main.62143579.css.map": "/static/css/main.62143579.css.map",
+    "main.fd5ba510.js.map": "/static/js/main.fd5ba510.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.62143579.css",
+    "static/js/main.fd5ba510.js"
+  ]
+}
